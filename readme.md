@@ -1,35 +1,35 @@
-# INF99X: Sample Course
+# PL-900: Основы Power Platform
 
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
+- **[Загрузите новейшее пособие для учащихся и материалы AllFiles](../../releases/latest)**
+- **Вы MCT?** - Ознакомьтесь с нашим [Руководством пользователя GitHub для MCT](https://microsoftlearning.github.io/MCT-User-Guide/)
+- **Нужны инструкции по созданию задания вручную?** - Ознакомьтесь с содержимым репозитория [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build)
 
-## What are we doing?
+## Чем мы занимаемся?
 
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
+- Мы будем часто обновлять данный курс для поддержания в актуальном состоянии информации об используемых в нем службах Power Platform.  Мы публикуем инструкции и файлы заданий на GitHub. Это позволяет авторам курсов и MCT помогать друг другу и редактировать учебные материалы при обновлении платформы.
 
-- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
+- Вы можете вносить коррективы в задания прямо в источнике, если заметите, что в Power Platform произошло какое-либо изменение. Надеемся, что такой подход будет способствовать поддержанию максимально тесного сотрудничества.  Помогайте вашим коллегам — MCT.
 
-## How should I use these files relative to the released MOC files?
+## Как использовать эти файлы и как они соотносятся с файлами MOC?
 
-- The instructor handbook and PowerPoints are still going to be your primary source for teaching the course content.
+- Инструкторам этого курса следует в первую очередь полагаться на руководство для инструкторов и презентации PowerPoint.
 
-- These files on GitHub are designed to be used in conjunction with the student handbook, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab files.
+- Файлы в GitHub дополняют пособие для учащихся. GitHub был выбран в качестве центрального репозитория, чтобы у MCT и авторов курсов был совместный источник новейших файлов заданий.
 
-- It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
+- Мы рекомендуем инструкторам перед каждым занятием проверить в GitHub, не было ли внесено каких-либо изменений в связи с последними обновлениями служб Azure, и загружать новейшие версии файлов.
 
-## What about changes to the student handbook?
+## Когда вносятся изменения в пособия для учащихся?
 
-- We will review the student handbook on a quarterly basis and update through the normal MOC release channels as needed.
+- Мы ежеквартально проверяем пособия для учащихся и при необходимости обновляем их с помощью обычных каналов выпуска MOC.
 
-## How do I contribute?
+## Что могу сделать я?
 
-- Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
+- Все MCT могут подавать запросы на вытягивание для кода или материалов, находящихся в репозитории GitHub. Майкрософт и автор курса рассматривают такие запросы и при необходимости корректируют материалы и код заданий.
 
-- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
+- Запросы следует отправлять, чтобы сообщить об ошибках, внести изменения или улучшения либо поделиться своими идеями.  Нашли новую возможность Azure раньше нас?  Опубликуйте обновленную версию ролика!
 
-## Notes
+## Примечания
 
-### Classroom Materials
+### Материалы для занятий
 
-It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
+Мы настоятельно рекомендуем MCT и партнерам изучать эти материалы и раздавать их учащимся.  Предлагать учащимся самостоятельно посетить GitHub для получения доступа к заданиям не стоит, поскольку необходимость пользоваться во время курса еще большим количеством ресурсов может доставить неудобства. Объясняя учащимся, почему инструкции к заданиям предоставляются отдельно, можно подчеркнуть, что облачные интерфейсы и платформы постоянно меняются. Поддержка Microsoft Learning, касающаяся доступа к файлам в GitHub, и поддержка, касающаяся навигации по сайту GitHub, предлагается только MCT, проводящим данный курс.
